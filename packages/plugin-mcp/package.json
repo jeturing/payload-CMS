@@ -68,7 +68,7 @@
   "dependencies": {
     "@modelcontextprotocol/server": "2.0.0",
     "tsx": "4.22.4",
-    "zod": "^4.2.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
